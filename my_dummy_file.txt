@@ -1,7 +1,0 @@
-Dummy file
-
-Now name is: my_second_file
-
-hope this time this file/changes will be ignored!!
-
-no it is still not working
